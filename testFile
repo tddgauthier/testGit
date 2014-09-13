@@ -1,8 +1,8 @@
 def sayHello():
 	print("Hello\n")
 
-def mergeConflict():
-	print("This is a merge conflict")
+def sayGoodBye():
+	print("Goodbye\n")
 
 sayHello()
-mergeConflict()
+sayGoodBye()
