@@ -4,14 +4,11 @@ def sayHello():
 def sayGoodBye():
 	print("Goodbye\n")
 
-<<<<<<< HEAD
 def goodFeature():
 	print("Good feature\n")
 
 def functionToRevert():
 	print("Function to revert\n")
 
-=======
->>>>>>> parent of 2a3f2e4... Added the good feature
 sayHello()
 sayGoodBye()
