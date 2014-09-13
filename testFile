@@ -7,5 +7,8 @@ def sayGoodBye():
 def goodFeature():
 	print("Good feature\n")
 
+def functionToRevert():
+	print("Function to revert\n")
+
 sayHello()
 sayGoodBye()
