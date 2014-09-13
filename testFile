@@ -5,10 +5,7 @@ def sayGoodBye():
 	print("Goodbye\n")
 
 def goodFeature():
-	print("Good feature\n")
-
-def functionToRevert():
-	print("Function to revert\n")
+	print("Refactored Functionality\n")
 
 sayHello()
 sayGoodBye()
