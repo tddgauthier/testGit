@@ -4,5 +4,8 @@ def sayHello():
 def sayGoodBye():
 	print("Goodbye\n")
 
+def goodFeature():
+	print("Good feature\n")
+
 sayHello()
 sayGoodBye()
